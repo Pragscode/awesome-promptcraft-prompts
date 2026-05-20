@@ -1,69 +1,71 @@
-# awesome-promptcraft-prompts
+<!-- HERO SECTION -->
+
+<h1 align="center">awesome-promptcraft-prompts</h1>
 
 <p align="center">
-  <a href="https://github.com/your-org/awesome-promptcraft-prompts/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/your-org/awesome-promptcraft-prompts?style=for-the-badge" /></a>
-  <a href="https://github.com/your-org/awesome-promptcraft-prompts/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/your-org/awesome-promptcraft-prompts?style=for-the-badge" /></a>
-  <a href="https://github.com/your-org/awesome-promptcraft-prompts/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/github/license/your-org/awesome-promptcraft-prompts?style=for-the-badge" /></a>
-  <a href="https://github.com/your-org/awesome-promptcraft-prompts/issues"><img alt="Issues" src="https://img.shields.io/github/issues/your-org/awesome-promptcraft-prompts?style=for-the-badge" /></a>
-  <img alt="Prompt Engineering" src="https://img.shields.io/badge/prompt-engineering-advanced-success?style=for-the-badge" />
-  <img alt="AI Models" src="https://img.shields.io/badge/compatible-ChatGPT%20%7C%20Claude%20%7C%20Gemini-blue?style=for-the-badge" />
+  Curated production-grade AI prompts generated with <strong>PromptCraft</strong>.
 </p>
 
 <p align="center">
-  <strong>Curated, production-grade structured prompts built with PromptCraft.</strong><br/>
-  Turn raw ideas into high-performance prompts for ChatGPT, Claude, Gemini, and modern AI agent stacks.
+  Turn raw ideas into high-performance prompts for ChatGPT, Claude, Gemini, and modern AI systems.
+</p>
+
+<p align="center">
+
+![Stars](https://img.shields.io/github/stars/Pragscode/awesome-promptcraft-prompts?style=for-the-badge)
+
+![Forks](https://img.shields.io/github/forks/Pragscode/awesome-promptcraft-prompts?style=for-the-badge)
+
+![Issues](https://img.shields.io/github/issues/Pragscode/awesome-promptcraft-prompts?style=for-the-badge)
+
+![License](https://img.shields.io/github/license/Pragscode/awesome-promptcraft-prompts?style=for-the-badge)
+
+</p>
+
+<p align="center">
+
+![Compatible](https://img.shields.io/badge/Compatible-ChatGPT%20%7C%20Claude%20%7C%20Gemini-blue?style=for-the-badge)
+
 </p>
 
 ---
 
-## Hero
+# What is PromptCraft?
 
-**awesome-promptcraft-prompts** is a premium open-source prompt library for developers, founders, students, creators, and researchers.
+PromptCraft is an advanced AI prompt engineering platform that transforms messy thoughts into structured, optimized prompts.
 
-This repository demonstrates what professional **prompt engineering** looks like when prompts are designed as reliable systems, not one-line guesses.
+Instead of writing weak one-line prompts, PromptCraft helps generate:
 
-Built with PromptCraft: https://promptcraft-genai.netlify.app/
+- role-aware prompts
+- structured AI instructions
+- optimized context systems
+- better output formatting
+- production-grade AI workflows
 
----
-
-## What Is PromptCraft
-
-PromptCraft is an AI prompt engineering platform that transforms rough user intent into optimized, reusable, and model-agnostic prompt assets.
-
-It helps teams:
-- standardize prompt quality
-- reduce hallucinations through constraints
-- improve output consistency
-- build prompt libraries that can be versioned and reviewed
-- accelerate AI product workflows
+Website: https://promptcraft-genai.netlify.app/
 
 ---
 
-## Why Structured Prompts Matter
+# Why This Repository Exists
 
-Unstructured prompting often creates:
-- inconsistent answers
-- vague outputs
-- wasted tokens
-- weak reasoning traces
+Most AI users fail because their prompts lack:
+- context
+- structure
+- constraints
+- reasoning systems
+- output guidance
 
-Structured prompting adds explicit sections:
-- **Role**
-- **Task**
-- **Context**
-- **Style**
-- **Constraints**
-- **Output Format**
-
-Result: better reliability, better controllability, and better outcomes across all major LLMs.
+This repository demonstrates what happens when prompts are engineered like systems instead of guesses.
 
 ---
 
-## Before vs After (PromptCraft Example)
+# Before vs After
 
-### Weak Prompt
+## Weak Prompt
 
-> make me a startup plan
+```text
+make me a startup plan
+```
 
 ### PromptCraft Prompt
 
