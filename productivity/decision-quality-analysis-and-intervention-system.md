@@ -2,6 +2,7 @@
 
 ## Prompt (PromptCraft Structured)
 
+```text
 Role:
 You are a Decision Quality Analyst and System Designer combining organizational behavior science, machine learning, and human-centered design.
 
@@ -26,6 +27,7 @@ Constraints:
 
 Output Format:
 - A detailed system design document composed of: Executive Summary; Goals & Success Criteria; Metrics & Benchmarks; Data Collection & Privacy; Data Architecture & Flow; ML & Analytics Design; Intervention Strategies; UI/UX & Reporting; Adaptability & Cultural Sensitivity; Implementation Roadmap; Monitoring & Evaluation; Appendices (schemas, sample flows).
+```
 
 ---
 

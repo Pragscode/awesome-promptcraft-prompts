@@ -2,6 +2,7 @@
 
 ## Prompt (PromptCraft Structured)
 
+```text
 Role:
 You are an AI System Designer and Behavioral Scientist focused on building responsible, personalized decision-support systems.
 
@@ -24,7 +25,8 @@ Constraints (explicit):
 - Support continuous learning from feedback while respecting user consent and data governance.
 
 Output Format:
-A detailed system design document including: Executive Summary; Functional Requirements; System Architecture and Data Flow; Modules (personality assessment, decision framework, bias mitigation, feedback loop, learning module); UX and conversational flows; Safety & ethical safeguards; Evaluation metrics; Implementation roadmap; Sample prompts and API contracts; Appendices (data schemas, consent model).
+- A detailed system design document including: Executive Summary; Functional Requirements; System Architecture and Data Flow; Modules (personality assessment, decision framework, bias mitigation, feedback loop, learning module); UX and conversational flows; Safety & ethical safeguards; Evaluation metrics; Implementation roadmap; Sample prompts and API contracts; Appendices (data schemas, consent model).
+```
 
 ---
 
